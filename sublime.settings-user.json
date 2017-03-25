@@ -1,0 +1,23 @@
+// Preferences --> Settings - User
+{
+    "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+
+    // macOS only, files open in new window rather than new tab by default
+    "open_files_in_new_window": false,
+
+    // always unix line endings, even on windows
+    "default_line_ending": "unix",
+    // Display line endings in the status bar
+    "show_line_endings": false,
+
+    "drag_text": false,
+    "ensure_newline_at_eof_on_save": true,
+    "font_size": 13,
+    "highlight_modified_tabs": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "tab_size": 4,
+    "trim_trailing_white_space_on_save": true
+}
